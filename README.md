@@ -7,7 +7,7 @@ Rename `config.json.example` to `config.json`
 ### Cloning this repo
 
 ```bash
-  git clone https://github.com/FajarCly/botwa
+  git clone https://github.com/Topandhi/botwa
   cd botwa
   npm install
 ```
