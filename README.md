@@ -4,6 +4,8 @@ A whatsapp bot based on baileys
 
 ## Installation
 Rename `config.json.example` to `config.json`
+## For Windows
+Install ffmpeg & curl first
 ### Cloning this repo
 
 ```bash
